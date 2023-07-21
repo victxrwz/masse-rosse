@@ -1,0 +1,718 @@
+body {
+    background-color: #450305;
+}
+
+header {
+    background-color: #450305;
+    float: left;
+    width: 40%;
+}
+
+th {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+#vozona{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+    float: right;
+    width: 50%;;
+    padding-top:20px ;
+    font-size: large;
+     text-align: center;
+}
+
+#back {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#funde {
+    text-align: center;
+}
+
+#fundoo {
+    width: auto;
+    height: 245px;
+
+}
+
+p {
+    font-family: Abril FatFace;
+}
+
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 45px;
+    text-align: left;
+}
+
+h2 {
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 35px;
+    text-align: left;
+}
+
+#text {
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 45px;
+    text-align: center;
+}
+
+.texto2 {
+    color: bisque;
+    font-size: 20px;
+    font-family: Georgia;
+    margin-top: -30px;
+
+}
+
+#mae {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#f1 {
+    display: flex;
+    width: 35%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#f2 {
+    width: 65%;
+}
+
+.titure {
+    color: black;
+}
+
+.desre {
+    color: black;
+    font-size: 70%;
+    font-family: Georgia;
+}
+
+.comre {
+    margin-top: 5%;
+    font-family: Georgia;
+    color: #C1970C;
+    font-size: 60%;
+}
+
+#pai {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#f3 {
+    display: flex;
+    width: 35%;
+}
+
+#osasco {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#f4 {
+    width: 65%;
+}
+
+#tio {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s1 {
+    display: flex;
+    width: 35%;
+}
+
+#spmarket {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#s2 {
+    width: 65%;
+}
+
+#tia {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s3 {
+    display: flex;
+    width: 35%;
+}
+
+#santoandre {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#s4 {
+    width: 65%;
+}
+
+#vó {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#n1 {
+    display: flex;
+    width: 35%;
+}
+
+#morumbi {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#n2 {
+    width: 65%;
+}
+
+#vo {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#n3 {
+    display: flex;
+    width: 35%;
+}
+
+#town {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#n4 {
+    width: 65%;
+}
+
+#bisa {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#b1 {
+    display: flex;
+    width: 35%;
+}
+
+#ibira {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#b2 {
+    width: 65%;
+}
+
+#biso {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#b3 {
+    display: flex;
+    width: 35%;
+}
+
+#paulista {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#b4 {
+    width: 65%;
+}
+
+#tara {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#t1 {
+    display: flex;
+    width: 35%;
+}
+
+#faria {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#t2 {
+    width: 65%;
+}
+
+#taro {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#t3 {
+    display: flex;
+    width: 35%;
+}
+
+#moema {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#t4 {
+    width: 65%;
+}
+
+#madri {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#a1 {
+    display: flex;
+    width: 35%;
+}
+
+#itaim {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#a2 {
+    width: 65%;
+}
+
+#padri {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#a3 {
+    display: flex;
+    width: 35%;
+}
+
+#jardins {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#a4 {
+    width: 65%;
+}
+
+#prima {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#p1 {
+    display: flex;
+    width: 35%;
+}
+
+#vila {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#p2 {
+    width: 65%;
+}
+
+#primo {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#p3 {
+    display: flex;
+    width: 35%;
+}
+
+#gianopolis {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#p4 {
+    width: 65%;
+}
+
+#amig {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#amg1 {
+    display: flex;
+    width: 35%;
+}
+
+#ipiranga {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#amg2 {
+    width: 65%;
+}
+
+.cadastru {
+    color: bisque;
+    font-family: Georgia;
+    text-align: center;
+    margin-left: 20%;
+    font-size: 30px;
+}
+
+.retangulu {
+    font-family: Georgia;
+    width: 210px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.cadastro {
+    color: bisque;
+    font-family: Georgia;
+}
+
+.retangulo {
+    font-family: Georgia;
+    width: 270px;
+}
+
+#fim {
+    color: bisque;
+    background-color: #C1970C;
+    width: 100px;
+    border-color: #C1970C;
+    margin-left: 85px;
+}
+
+.retanguli {
+    font-family: Georgia;
+    width: 220px;
+    margin-top: 5px;
+}
+
+.cadastre {
+    color: #C1970C;
+    font-family: Georgia;
+    text-align: left;
+}
+
+#grandao {
+    margin-left: 40px;
+}
+
+.linque {
+    color: #C1970C;
+}
+
+.amarelo{
+    color: #C1970C;
+}
+.amarelo:link{
+    text-decoration: none;
+}
+.amarelo:active{
+    color: #C1970C;
+}
+.amarelo:hover{
+    color: #C1970C;
+}
+
+
+.branco{
+    color: #ccc;
+}
+.branco:link{
+    text-decoration: none;
+}
+.branco:hover{
+    color: #C1970C;
+}
+.branco:active{
+    color: #C1970C;
+}
+#loginho{
+    width: 50%;
+    float: left;
+    padding-left: 280px;
+    padding-top: 30px
+  }
+  footer {
+    background-color:#360406;
+    text-align: center;
+    color: white;
+    border: none;
+    padding-top: 20px;
+    width: 100%;
+    height: 200px;
+    float: bottom;
+  }
+  #final{
+    height: 550px;
+  }
+  .BRANCO-final{
+    color: #ccc;
+  }
+  
+  .amarelo-final:hover {
+    color: #fac710;
+  }
+  
+  .amarelo-final:active {
+    color: #fac710;
+  }
+  
+  .amarelo-final:link {
+    text-decoration: none;
+  }
+  .amarelo-final{
+    color: #ccc;
+  }
+  
+  .BRANCO-final{
+    color: #ccc;
+  }
+  
+  .BRANCO-final:hover {
+    color: #fac710;
+  }
+  
+  .BRANCO-final:active {
+    color: #fac710;
+  }
+  
+  .BRANCO-final:link {
+    text-decoration: none;
+  }
+  #inicinho{
+    padding: 20px;
+  }
+  #menusinho{
+    padding: 20px;
+  }
+  #reserve-ja{
+    padding: 20px;
+  }
+  #eventinhos{
+    padding: 20px;
+  }
+  #login{
+    padding: 20px;
+  
+  }
+  ul {
+    list-style-type: none;
+    float: right;
+  
+  }
+  li {
+    display: inline-block;
+    text-align: center;
+    padding: 60px;
+    padding-top: 0%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+  
+  }  
+
+  #parte-escrita{
+    width: 50%;
+    float: left;
+    display: flex;
+    padding-top: 40px;
+    text-align: left;
+  }
+  #h2 {
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 35px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+#h3 {
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 35px;
+    text-align: left;
+    padding-bottom: 20px;
+}

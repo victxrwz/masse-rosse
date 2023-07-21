@@ -1,0 +1,493 @@
+th {
+    font-family: Georgia;
+    color: #ffffff;
+}
+
+table {
+    float: right;
+    width: 60%;
+    padding-top:20px ;
+}
+
+header {
+    float: left;
+    width: 40%;
+}
+
+#massas{
+    color: #C1970C;
+    font-family: "Abril Fatface", sans-serif;
+    text-align: center;
+    font-size: 67px;
+
+}
+#melhores{
+    color: #C1970C;
+    font-family: "Abril Fatface", sans-serif;
+    text-align: center;
+    font-size: 67px;
+
+}
+#sobremesas{
+    color: #C1970C;
+    font-family: "Abril Fatface", sans-serif;
+    text-align: center;
+    font-size: 67px;
+
+}
+#BEBIDAS{
+    color: #C1970C;
+    font-family: "Abril Fatface", sans-serif;
+    text-align: center;
+    font-size: 67px;
+
+}
+
+main {
+    margin-left: 20%;
+    margin-right: 18%;
+}
+
+
+#mae {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#f1 {
+
+    padding: 10px;
+
+
+}
+
+#f2 {
+    padding: 10px;
+
+}
+
+#f3 {
+
+    padding: 10px;
+
+}
+
+.foto {
+    width: 317px;
+    border: 1px solid bisque;
+}
+
+#pai {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#f4 {
+
+    padding: 10px;
+
+
+}
+
+#f5 {
+
+    padding: 10px;
+
+
+}
+
+#Tagliatelle {
+    width: 317px;
+}
+
+#f6 {
+
+    padding: 10px;
+
+}
+
+#padrasto {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#f7 {
+
+    padding: 10px;
+
+}
+
+#f8 {
+
+    padding: 10px;
+
+}
+
+#f9 {
+
+    padding: 10px;
+
+}
+
+#madrasta {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#f10 {
+
+    padding: 10px;
+
+}
+
+#f11 {
+
+    padding: 10px;
+
+}
+
+#f12 {
+
+    padding: 10px;
+
+}
+
+#corinthians {
+    width: 325px;
+}
+
+#tio {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#s1 {
+
+    padding: 10px;
+
+}
+#risoto {
+    width: 327px;
+}
+
+#s2 {
+
+
+    padding: 10px;
+
+}
+
+#s3 {
+
+    padding: 10px;
+
+}
+
+#tia {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#s4 {
+
+    padding: 10px;
+
+}
+#caralho{
+    width: 327px;
+}
+
+#s5 {
+
+
+    padding: 10px;
+
+}
+
+#s6 {
+
+    padding: 10px;
+
+}
+
+#vo {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#n1 {
+
+
+    padding: 10px;
+
+}
+
+#n2 {
+
+    padding: 10px;
+
+}
+
+#n3 {
+
+    padding: 10px;
+
+}
+
+#bisa {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#b1 {
+
+
+    padding: 10px;
+
+}
+
+#b2 {
+
+    padding: 10px;
+
+}
+
+#b3 {
+
+    padding: 10px;
+
+}
+
+#primo {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#p1 {
+
+    padding: 10px;
+
+}
+
+#p2 {
+
+    padding: 10px;
+
+}
+
+#limãozinho {
+    width: 280px
+}
+
+#p3 {
+
+
+    padding: 10px;
+
+}
+
+#prima {
+    display: grid;
+    gap: 5px 35px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+
+}
+
+#p4 {
+
+    padding: 10px;
+
+}
+
+#p5 {
+
+    padding: 10px;
+
+}
+
+#p6 {
+
+    padding: 10px;
+
+}
+
+
+.descrição {
+    text-align: center;
+    font-size: 20px;
+    color: #C1970C;
+    font-family: Georgia;
+}
+
+.preço {
+    text-align: center;
+    font-size: 30px;
+    color: #C1970C;
+    font-family: Georgia;
+}
+
+
+
+.amarelo{
+    color: #C1970C;
+}
+.amarelo:link{
+    text-decoration: none;
+}
+.amarelo:active{
+    color: #C1970C;
+}
+.amarelo:hover{
+    color: #C1970C;
+}
+
+
+.branco{
+    color: #ccc;
+}
+.branco:link{
+    text-decoration: none;
+}
+.branco:hover{
+    color: #C1970C;
+}
+.branco:active{
+    color: #C1970C;
+}
+#loginho{
+    width: 50%;
+    float: left;
+    padding-left: 280px;
+    padding-top: 30px
+  }
+  footer {
+    background-color:#360406;
+    text-align: center;
+    color: white;
+    border: none;
+    padding-top: 20px;
+    width: 100%;
+    height: 200px;
+  }
+  #final{
+    height: 550px;
+  }
+  .BRANCO-final{
+    color: #ccc;
+  }
+  
+  .amarelo-final:hover {
+    color: #fac710;
+  }
+  
+  .amarelo-final:active {
+    color: #fac710;
+  }
+  
+  .amarelo-final:link {
+    text-decoration: none;
+  }
+  .amarelo-final{
+    color: #ccc;
+  }
+  
+  .BRANCO-final{
+    color: #ccc;
+  }
+  
+  .BRANCO-final:hover {
+    color: #fac710;
+  }
+  
+  .BRANCO-final:active {
+    color: #fac710;
+  }
+  
+  .BRANCO-final:link {
+    text-decoration: none;
+  }
+  #inicinho{
+    padding: 20px;
+  }
+  #menusinho{
+    padding: 20px;
+  }
+  #reserve-ja{
+    padding: 20px;
+  }
+  #eventinhos{
+    padding: 20px;
+  }
+  #login{
+    padding: 20px;
+  
+  }
+  ul {
+    list-style-type: none;
+    float: right;
+  
+  }
+  li {
+    display: inline-block;
+    text-align: center;
+    padding: 60px;
+    padding-top: 0%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+  
+  }  
+
+  #parte-escrita{
+    width: 50%;
+    float: left;
+    display: flex;
+    padding-top: 40px;
+    text-align: left;
+  }
+
+
+  .nome:hover{
+    color: #aa9033;
+  }
+  .nome:active{
+    color: #aa9033;
+  }
+  .nome:link{
+    text-decoration:none;
+  }
+  .nome{
+    text-align: center;
+    font-size: 22px;
+    color: #C1970C;
+    font-family: Georgia;
+}
+  

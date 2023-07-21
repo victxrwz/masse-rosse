@@ -1,0 +1,301 @@
+#corpo {
+  background-color: #450305;
+
+}
+
+
+ul {
+  list-style-type: none;
+  float: right;
+  
+}
+
+
+li {
+  display: inline-block;
+  text-align: center;
+  padding: 50px;
+  padding-top: 15px;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+
+}
+#inicinho{
+  padding: 20px;
+}
+#menusinho{
+  padding: 20px;
+}
+#reserve-ja{
+  padding: 20px;
+}
+#eventinhos{
+  padding: 20px;
+}
+#login{
+  padding: 20px;
+
+}
+.amarelo:hover {
+  color: rgb(207, 170, 21);
+}
+
+.amarelo:active {
+  color: rgb(207, 170, 21);
+}
+
+.amarelo:link {
+  text-decoration: none;
+}
+.BRANCO:hover {
+  color: rgb(207, 170, 21);
+}
+
+.BRANCO:active {
+  color: rgb(207, 170, 21);
+}
+
+.BRANCO:link {
+  text-decoration: none;
+}
+
+.amarelo{
+  color: rgb(207, 170, 21);
+}
+
+.BRANCO{
+  color: #ccc;
+}
+
+input[type=text] {
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('lups.png');
+  background-position: 10px 10px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+
+#logo {
+  width: 27%;
+  float: left
+}
+
+#pesquisa {
+  width: 30%;
+  float: right;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-right: 80px;
+
+}
+
+#nav {
+  width: 50%;
+  float: right;
+  padding-top: 15px;
+  padding-bottom: 0%;
+  height: 15px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+}
+
+#inicio{
+  color: #fac710;
+}
+
+.pratos{
+  padding-top: 20px;
+  color: #caa82c;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pratos:hover{
+  color: #aa9033;
+}
+.pratos:active{
+  color: #aa9033;
+}
+.pratos:link{
+  text-decoration:none;
+}
+
+
+#geral.inicial {
+  width: 100%;
+  float: top;
+
+  padding-top: 0%;
+  padding-bottom: 50px;
+}
+
+#visual {
+  width: 100%;
+
+}
+
+#imagem {
+  width: 50%;
+  float: right;
+  text-align: center;
+  padding-top: 50px;
+  padding-right: 80px;
+  padding-left: 20px;
+
+
+}
+
+.texto {
+  width: 50%;
+  font-family: "Abril Fatface", serif;
+  float: left;
+  padding-top: 0px;
+  padding-left: 90px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  color: #F2DABD;
+
+
+}
+
+#redes {
+  width: 50%;
+  height: 20px;
+  float: right;
+  text-align: left;
+  padding-top: 20px;
+
+}
+
+#instagram {
+  padding-left: 30px;
+  color: #F2DABD;
+  font-size: 20px;
+  font-family: "Abril Fatface", serif;
+  float: left;
+  padding-left: 50px;
+}
+
+#facebook {
+  padding-left: 30px;
+  color: #F2DABD;
+  font-size: 20px;
+  font-family: "Abril Fatface", serif;
+  float: right;
+  padding-right: 600px;
+}
+
+#subtitulo {
+  float: left;
+  width: 100%;
+  font-family: "Abril Fatface", serif;
+  color: #F2DABD;
+  font-size: 60px;
+  padding-left: 90px;
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+table {
+  width: 100%;
+
+}
+
+td {
+  width: 25%;
+  padding: 30px;
+  text-align: center;
+}
+
+
+#texto2{
+  float: right;
+  width: 50%;
+  padding-left: 40px;
+  padding-right: 50px;
+  font-family: "Abril Fatface", serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  color: #F2DABD;
+}
+#final{
+  height: 550px;
+}
+footer {
+  background-color:#360406;
+  padding: 30px;
+  text-align: center;
+  color: white;
+  border: none;
+  padding-top: 20px;
+  width: 100%;
+  height: 200px;
+}
+
+#parte-escrita{
+  width: 50%;
+  float: left;
+  display: flex;
+  padding-top: 50px;
+  text-align: left;
+}
+#pai{
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 80px;
+  border-bottom: #F2DABD;
+}
+#loginho{
+  width: 50%;
+  float: left;
+  padding-left: 280px;
+  padding-top: 30px
+}
+.BRANCO-final{
+  color: #ccc;
+}
+
+.amarelo-final:hover {
+  color: #fac710;
+}
+
+.amarelo-final:active {
+  color: #fac710;
+}
+
+.amarelo-final:link {
+  text-decoration: none;
+}
+.amarelo-final{
+  color: #ccc;
+}
+
+.BRANCO-final{
+  color: #ccc;
+}
+
+.BRANCO-final:hover {
+  color: #fac710;
+}
+
+.BRANCO-final:active {
+  color: #fac710;
+}
+
+.BRANCO-final:link {
+  text-decoration: none;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}

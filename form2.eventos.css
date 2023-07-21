@@ -1,0 +1,692 @@
+th {
+    font-family: Georgia;
+    color: #ffffff;
+}
+
+table {
+    float: right;
+    width: 50%;;
+    padding-top:20px ;
+    font-size: large;
+     text-align: center;
+}
+
+header {
+    float: left;
+    width: 40%;
+}
+
+h1 {
+    color: #C1970C;
+    font-family: "Abril Fatface", sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+main {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#h2 {
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 35px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+#ja{
+    color: #C1970C;
+    font-family: Abril Fatface;
+    font-size: 35px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.texto2 {
+    color: bisque;
+    font-size: 20px;
+    font-family: Georgia;
+    margin-top: -30px;
+
+}
+
+#mae {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+ font-family: "Abril Fatface", sans-serif;
+}
+
+#f1 {
+    display: flex;
+    width: 35%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#f2 {
+    width: 65%;
+}
+p{
+    color: #000000;
+    font-family: Abril Fatface;
+}
+.caralho{
+    color: #000000;
+}
+#pai {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#f3 {
+    display: flex;
+    width: 35%;
+}
+
+#f4 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#padrasto {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#f5 {
+    display: flex;
+    width: 35%;
+}
+
+#f6 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#madrasta {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#f7 {
+    display: flex;
+    width: 35%;
+}
+
+#f8 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#madrinha {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#a1 {
+    display: flex;
+    width: 35%;
+}
+
+#a2 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#padrinho {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#a3 {
+    display: flex;
+    width: 35%;
+}
+
+#a4 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#madrinhaconsagra {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#a5 {
+    display: flex;
+    width: 35%;
+}
+
+#a6 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#padrinhoconsagra {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#a7 {
+    display: flex;
+    width: 35%;
+}
+
+#a8 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia1 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s1 {
+    display: flex;
+    width: 35%;
+}
+
+#s2 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia2 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s3 {
+    display: flex;
+    width: 35%;
+}
+
+#s4 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia3 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s5 {
+    display: flex;
+    width: 35%;
+}
+
+#s6 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia4 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s7 {
+    display: flex;
+    width: 35%;
+}
+
+#s9 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia5 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s9 {
+    display: flex;
+    width: 35%;
+}
+
+#s10 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia6 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s11 {
+    display: flex;
+    width: 35%;
+}
+
+#s12 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+#tia7 {
+    display: flex;
+    border: 2px solid bisque;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: bisque;
+
+}
+
+#s13 {
+    display: flex;
+    width: 35%;
+}
+
+#s14 {
+    width: 65%;
+}
+
+#testee {
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.bosta1{
+    width: 90%;
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+
+
+
+.bosta{
+    color: #C1970C;
+    width: 337px;
+}
+
+.cadastru {
+    color: bisque;
+    font-family: Georgia;
+    text-align: center;
+    margin-left: 20%;
+    font-size: 30px;
+}
+
+.retangulu {
+    font-family: Georgia;
+    width: 210px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.cadastro {
+    color: bisque;
+    font-family: Georgia;
+}
+
+.retangulo {
+    font-family: Georgia;
+    width: 270px;
+}
+
+#fim {
+    color: bisque;
+    background-color: #C1970C;
+    width: 100px;
+    border-color:#C1970C;
+    margin-left: 85px;
+
+}
+
+.retanguli {
+    font-family: Georgia;
+    width: 220px;
+    margin-top: 5px;
+}
+
+.cadastre {
+    color: #C1970C;
+    font-family: Georgia;
+    text-align: left;
+}
+
+#grandao {
+    margin-left: 40px;
+}
+
+.amarelo{
+    color: #C1970C;
+}
+.amarelo:link{
+    text-decoration: none;
+}
+.amarelo:active{
+    color: #C1970C;
+}
+.amarelo:hover{
+    color: #C1970C;
+}
+
+
+.branco{
+    color: #ccc;
+}
+.branco:link{
+    text-decoration: none;
+}
+.branco:hover{
+    color: #C1970C;
+}
+.branco:active{
+    color: #C1970C;
+}
+#loginho{
+    width: 50%;
+    float: left;
+    padding-left: 280px;
+    padding-top: 30px
+  }
+  footer {
+    background-color:#360406;
+    text-align: center;
+    color: white;
+    border: none;
+    padding-top: 20px;
+    width: 100%;
+    height: 200px;
+    float: bottom;
+  }
+  #final{
+    height: 550px;
+  }
+  .BRANCO-final{
+    color: #ccc;
+  }
+  
+  .amarelo-final:hover {
+    color: #fac710;
+  }
+  
+  .amarelo-final:active {
+    color: #fac710;
+  }
+  
+  .amarelo-final:link {
+    text-decoration: none;
+  }
+  .amarelo-final{
+    color: #ccc;
+  }
+  
+  .BRANCO-final{
+    color: #ccc;
+  }
+  
+  .BRANCO-final:hover {
+    color: #fac710;
+  }
+  
+  .BRANCO-final:active {
+    color: #fac710;
+  }
+  
+  .BRANCO-final:link {
+    text-decoration: none;
+  }
+  #inicinho{
+    padding: 20px;
+  }
+  #menusinho{
+    padding: 20px;
+  }
+  #reserve-ja{
+    padding: 20px;
+  }
+  #eventinhos{
+    padding: 20px;
+  }
+  #login{
+    padding: 20px;
+  
+  }
+  ul {
+    list-style-type: none;
+    float: right;
+  
+  }
+  li {
+    display: inline-block;
+    text-align: center;
+    padding: 60px;
+    padding-top: 0%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+  
+  }  
+
+  #parte-escrita{
+    width: 50%;
+    float: left;
+    display: flex;
+    padding-top: 40px;
+    text-align: left;
+  }
+  #Marque {
+    color: #C1970C;
+    font-family: "Abril Fatface", sans-serif;
+    text-align: center;
+    font-size: 48px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
